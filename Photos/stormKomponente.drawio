@@ -1,0 +1,49 @@
+<mxfile modified="2024-01-01T19:41:35.758Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UPwMOWdFGEQ7n9CZ0jh2" version="22.1.16" type="device">
+  <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
+    <mxGraphModel dx="1420" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nimbus&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ZooKeeper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ZooKeeper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ZooKeeper&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-7" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="330" y="314.5" as="sourcePoint" />
+            <mxPoint x="390" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="510" y="314.5" as="sourcePoint" />
+            <mxPoint x="570" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervisor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="300" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervisor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="240" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervisor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="180" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervisor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="360" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvfLUpQYl2JAWIkufVUC-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Supervisor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="420" width="105" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
